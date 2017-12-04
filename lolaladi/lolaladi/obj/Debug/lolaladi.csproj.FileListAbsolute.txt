@@ -1,0 +1,6 @@
+c:\users\karishma\source\repos\lolaladi\lolaladi\bin\Debug\lolaladi.exe.config
+c:\users\karishma\source\repos\lolaladi\lolaladi\bin\Debug\lolaladi.exe
+c:\users\karishma\source\repos\lolaladi\lolaladi\bin\Debug\lolaladi.pdb
+c:\users\karishma\source\repos\lolaladi\lolaladi\obj\Debug\lolaladi.csproj.CoreCompileInputs.cache
+c:\users\karishma\source\repos\lolaladi\lolaladi\obj\Debug\lolaladi.exe
+c:\users\karishma\source\repos\lolaladi\lolaladi\obj\Debug\lolaladi.pdb
